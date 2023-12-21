@@ -19,3 +19,11 @@ PowerPoint - Presentation and Findings [Download here] (https://powerpoint.com)
 In the intial Data preparation phase, we performed the following tasks:
 
 1. Data loading and Inspection
+
+2. Removed Column
+
+3. Removed Duplicates and Quotation Marks
+
+4. Renamed Columns
+
+5. Merged Content, Reaction and Reaction.types tables
