@@ -42,3 +42,28 @@ In the intial Data preparation phase, we performed the following tasks:
 - What Was the Month with the most Post?
 
 - Most Popular Content Type  by Reaction Score
+
+  ### Data Analysis
+
+  The analysis results are summarized as follows:
+
+ 1. The top five categories with the largest aggregate popularity are Animals, Science, Healthy eating, Food, accross all categories popularity ranged from 66676 - 74965 with Animals and Science been the highest. This shows that people enjoy "real life" and "Factual Content" the most.
+
+2.  A total of 16 unique categories.
+
+3.  1897 Reactions to the most popular categories "Animals".
+
+4.  May had a total of 2138 making it the month with the most post.
+
+5.  The audience also seem to be engaging more with photo type of content making up 27% of the total content type.
+
+  ### Recommendations and Insight
+
+  Food is a common theme with the top 5 categorieswith "Healthy Eating" ranking the highest. This may give an indication to the audience within your user base. you could use the insight to create a campaign and work with healthy eating brandsto boost user engagement.
+
+Also consider incorporating more visually appealing images to drive more engagement as the audience seem to be engaging more with photo type of content.
+
+  
+
+
+  
