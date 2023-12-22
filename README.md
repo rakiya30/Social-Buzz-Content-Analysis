@@ -33,12 +33,12 @@ In the intial Data preparation phase, we performed the following tasks:
 
 ### Exploratory Data Analysis
 
-1. An Analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
+- An Analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
 
-2. How Many Unique Categories are There?
+- How Many Unique Categories are There?
 
-3. How Many Reactions are There to the Most Popular Category?
+- How Many Reactions are There to the Most Popular Category?
 
-4. What Was the Month with the most Post?
+- What Was the Month with the most Post?
 
-5. Most Popular Content Type  by Reaction Score
+- Most Popular Content Type  by Reaction Score
