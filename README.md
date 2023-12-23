@@ -59,9 +59,11 @@ In the intial Data preparation phase, we performed the following tasks:
 
   ### Recommendations and Insight
 
-  Food is a common theme with the top 5 categorieswith "Healthy Eating" ranking the highest. This may give an indication to the audience within your user base. you could use the insight to create a campaign and work with healthy eating brandsto boost user engagement.
+  Based on the analysis we recommend the following actions:
 
-Also consider incorporating more visually appealing images to drive more engagement as the audience seem to be engaging more with photo type of content.
+ - Food is a common theme with the top 5 categorieswith "Healthy Eating" ranking the highest. This may give an indication to the audience within your user base. you could use the insight to create a campaign and work with healthy eating brandsto boost user engagement.
+
+- Also consider incorporating more visually appealing images to drive more engagement as the audience seem to be engaging more with photo type of content.
 
   
 
