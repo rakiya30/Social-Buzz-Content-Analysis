@@ -1,6 +1,23 @@
 # Social-Buzz-Content-Analysis (Accenture Virtual job Simulation on Forage Platform)
 An analysis of Social Buzz content categories with largest aggregate popularity
 
+## Table of content
+- [Project Overview](project-overview)
+
+- [Data Source](data-source)
+
+- [Tools](tools)
+
+- [Data Cleaning Preparation](data-cleaning-preparation)
+
+- [Exploratory Data Analysis](exploratory-data-analysis)
+
+- [Data Analysis](data-analysis)
+
+- [Recommendations and Insight](Recommendations-and-insight)
+
+  
+
 ### Project Overview
 This data analysis project aims to provide inghts and recommendation on social buzz top five content categories. Social buzz is a technology platform where posting content is the centre stage of the business. Over the past 5years, the business has reached over 500 million active users, they have grown beyond their anticipation and need help to oversee their scaling process effectively.
 
