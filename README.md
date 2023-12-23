@@ -2,19 +2,19 @@
 An analysis of Social Buzz content categories with largest aggregate popularity
 
 ## Table of content
-- [Project Overview](project-overview)
+- [Project Overview](#project-overview)
 
-- [Data Source](data-source)
+- [Data Source](#data-source)
 
-- [Tools](tools)
+- [Tools](#tools)
 
-- [Data Cleaning Preparation](data-cleaning-preparation)
+- [Data Cleaning Preparation](#data-cleaning-preparation)
 
-- [Exploratory Data Analysis](exploratory-data-analysis)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 
-- [Data Analysis](data-analysis)
+- [Data Analysis](#data-analysis)
 
-- [Recommendations and Insight](Recommendations-and-insight)
+- [Recommendations and Insight](#recommendations-and-insight)
 
   
 
@@ -26,13 +26,13 @@ The primary source of the dataset 'Social_Buzz_Content_Dataset.xls' was gotten f
 
 ### Tools
 Excel - Data Cleaning and Merging 
-- [Download here] (https://microsoft.com)  
+- [Download here](https://microsoft.com)  
 
 PowerBI - Data Analysis and Visualisation 
-- [Download here] (https://powerbi.com)
+- [Download here](https://powerbi.com)
 
 PowerPoint - Presentation and Findings 
-- [Download here] (https://powerpoint.com)
+- [Download here](https://powerpoint.com)
 
 ### Data Cleaning Preparation
 
