@@ -1,5 +1,5 @@
 # Social-Buzz-Content-Analysis (Accenture Virtual job Simulation on Forage Platform)
-This was done as part of Accenture virtual job simulation on Forage platform.The project is focused on advising a hypothetical social media client on their content categories with largest aggregate popularity
+This was done as part of Accenture virtual job simulation on Forage platform.The project is focused on advising a hypothetical social media client on their content categories with largest aggregate popularity.
 
 ## Table of content
 - [Project Overview](#project-overview)
