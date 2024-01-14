@@ -1,5 +1,5 @@
 # Social-Buzz-Content-Analysis (Accenture Virtual job Simulation on Forage Platform)
-An analysis of Social Buzz content categories with largest aggregate popularity
+This was done as part of Accenture virtual job simulation on Forage platform.The project is focused on advising a hypothetical social media client on their content categories with largest aggregate popularity
 
 ## Table of content
 - [Project Overview](#project-overview)
@@ -49,13 +49,15 @@ In the intial Data preparation phase, we performed the following tasks:
 
 1. Data loading and Inspection
 
-2. Removed Column
+2. Data cleaning and Modelling
 
-3. Removed Duplicates and Quotation Marks
+3. Removed Columns
 
-4. Renamed Columns
+4. Removed Duplicates and Quotation Marks
 
-5. Merged Content, Reaction and Reaction.types tables
+5. Renamed Columns
+
+6. Merged Content, Reaction and Reaction.types tables
 
 ### Exploratory Data Analysis
 
